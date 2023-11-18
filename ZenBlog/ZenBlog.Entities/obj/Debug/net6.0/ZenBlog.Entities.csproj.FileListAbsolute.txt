@@ -1,0 +1,15 @@
+C:\Users\sedat\source\repos\ZenBlog\ZenBlog.Entities\bin\Debug\net6.0\ZenBlog.Entities.deps.json
+C:\Users\sedat\source\repos\ZenBlog\ZenBlog.Entities\bin\Debug\net6.0\ZenBlog.Entities.dll
+C:\Users\sedat\source\repos\ZenBlog\ZenBlog.Entities\bin\Debug\net6.0\ZenBlog.Entities.pdb
+C:\Users\sedat\source\repos\ZenBlog\ZenBlog.Entities\bin\Debug\net6.0\ZenBlog.Shared.dll
+C:\Users\sedat\source\repos\ZenBlog\ZenBlog.Entities\bin\Debug\net6.0\ZenBlog.Shared.pdb
+C:\Users\sedat\source\repos\ZenBlog\ZenBlog.Entities\obj\Debug\net6.0\ZenBlog.Entities.csproj.AssemblyReference.cache
+C:\Users\sedat\source\repos\ZenBlog\ZenBlog.Entities\obj\Debug\net6.0\ZenBlog.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sedat\source\repos\ZenBlog\ZenBlog.Entities\obj\Debug\net6.0\ZenBlog.Entities.AssemblyInfoInputs.cache
+C:\Users\sedat\source\repos\ZenBlog\ZenBlog.Entities\obj\Debug\net6.0\ZenBlog.Entities.AssemblyInfo.cs
+C:\Users\sedat\source\repos\ZenBlog\ZenBlog.Entities\obj\Debug\net6.0\ZenBlog.Entities.csproj.CoreCompileInputs.cache
+C:\Users\sedat\source\repos\ZenBlog\ZenBlog.Entities\obj\Debug\net6.0\ZenBlog.Entities.csproj.CopyComplete
+C:\Users\sedat\source\repos\ZenBlog\ZenBlog.Entities\obj\Debug\net6.0\ZenBlog.Entities.dll
+C:\Users\sedat\source\repos\ZenBlog\ZenBlog.Entities\obj\Debug\net6.0\refint\ZenBlog.Entities.dll
+C:\Users\sedat\source\repos\ZenBlog\ZenBlog.Entities\obj\Debug\net6.0\ZenBlog.Entities.pdb
+C:\Users\sedat\source\repos\ZenBlog\ZenBlog.Entities\obj\Debug\net6.0\ref\ZenBlog.Entities.dll

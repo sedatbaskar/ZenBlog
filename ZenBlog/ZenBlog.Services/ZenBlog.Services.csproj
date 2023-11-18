@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ZenBlog.Data\ZenBlog.Data.csproj" />
+    <ProjectReference Include="..\ZenBlog.Entities\ZenBlog.Entities.csproj" />
+    <ProjectReference Include="..\ZenBlog.Shared\ZenBlog.Shared.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,293 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\sedat\\source\\repos\\ZenBlog\\ZenBlog.Services\\ZenBlog.Services.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\sedat\\source\\repos\\ZenBlog\\ZenBlog.Data\\ZenBlog.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\sedat\\source\\repos\\ZenBlog\\ZenBlog.Data\\ZenBlog.Data.csproj",
+        "projectName": "ZenBlog.Data",
+        "projectPath": "C:\\Users\\sedat\\source\\repos\\ZenBlog\\ZenBlog.Data\\ZenBlog.Data.csproj",
+        "packagesPath": "C:\\Users\\sedat\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sedat\\source\\repos\\ZenBlog\\ZenBlog.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\sedat\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\sedat\\source\\repos\\ZenBlog\\ZenBlog.Entities\\ZenBlog.Entities.csproj": {
+                "projectPath": "C:\\Users\\sedat\\source\\repos\\ZenBlog\\ZenBlog.Entities\\ZenBlog.Entities.csproj"
+              },
+              "C:\\Users\\sedat\\source\\repos\\ZenBlog\\ZenBlog.Shared\\ZenBlog.Shared.csproj": {
+                "projectPath": "C:\\Users\\sedat\\source\\repos\\ZenBlog\\ZenBlog.Shared\\ZenBlog.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.12, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.12, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.12, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.12, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\sedat\\source\\repos\\ZenBlog\\ZenBlog.Entities\\ZenBlog.Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\sedat\\source\\repos\\ZenBlog\\ZenBlog.Entities\\ZenBlog.Entities.csproj",
+        "projectName": "ZenBlog.Entities",
+        "projectPath": "C:\\Users\\sedat\\source\\repos\\ZenBlog\\ZenBlog.Entities\\ZenBlog.Entities.csproj",
+        "packagesPath": "C:\\Users\\sedat\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sedat\\source\\repos\\ZenBlog\\ZenBlog.Entities\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\sedat\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\sedat\\source\\repos\\ZenBlog\\ZenBlog.Shared\\ZenBlog.Shared.csproj": {
+                "projectPath": "C:\\Users\\sedat\\source\\repos\\ZenBlog\\ZenBlog.Shared\\ZenBlog.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\sedat\\source\\repos\\ZenBlog\\ZenBlog.Services\\ZenBlog.Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\sedat\\source\\repos\\ZenBlog\\ZenBlog.Services\\ZenBlog.Services.csproj",
+        "projectName": "ZenBlog.Services",
+        "projectPath": "C:\\Users\\sedat\\source\\repos\\ZenBlog\\ZenBlog.Services\\ZenBlog.Services.csproj",
+        "packagesPath": "C:\\Users\\sedat\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sedat\\source\\repos\\ZenBlog\\ZenBlog.Services\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\sedat\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\sedat\\source\\repos\\ZenBlog\\ZenBlog.Data\\ZenBlog.Data.csproj": {
+                "projectPath": "C:\\Users\\sedat\\source\\repos\\ZenBlog\\ZenBlog.Data\\ZenBlog.Data.csproj"
+              },
+              "C:\\Users\\sedat\\source\\repos\\ZenBlog\\ZenBlog.Entities\\ZenBlog.Entities.csproj": {
+                "projectPath": "C:\\Users\\sedat\\source\\repos\\ZenBlog\\ZenBlog.Entities\\ZenBlog.Entities.csproj"
+              },
+              "C:\\Users\\sedat\\source\\repos\\ZenBlog\\ZenBlog.Shared\\ZenBlog.Shared.csproj": {
+                "projectPath": "C:\\Users\\sedat\\source\\repos\\ZenBlog\\ZenBlog.Shared\\ZenBlog.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\sedat\\source\\repos\\ZenBlog\\ZenBlog.Shared\\ZenBlog.Shared.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\sedat\\source\\repos\\ZenBlog\\ZenBlog.Shared\\ZenBlog.Shared.csproj",
+        "projectName": "ZenBlog.Shared",
+        "projectPath": "C:\\Users\\sedat\\source\\repos\\ZenBlog\\ZenBlog.Shared\\ZenBlog.Shared.csproj",
+        "packagesPath": "C:\\Users\\sedat\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sedat\\source\\repos\\ZenBlog\\ZenBlog.Shared\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\sedat\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.12, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.12, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.12, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.12, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
